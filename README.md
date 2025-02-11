@@ -6,6 +6,7 @@ This project is an interactive Placement Data Analysis Dashboard built using Mic
 
 ## Key Features
 ✅ Total Students Analysis – Displays overall student count (10,000)
+
 ✅ Grade Distribution – Breakdown of students based on A, B, and C grades
 ✅ Placement Status – Visualization of placed vs. non-placed students
 ✅ Training & Extracurricular Impact – Analyzes how additional activities improve placement chances
